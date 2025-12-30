@@ -7,7 +7,7 @@ import matplotlib.patches as plt
 # print("OK")
 
 num_list = [1,2,3,4,5]
-print(num_list)
+print(num_list) 
 data = np.array(num_list) #넘파이 array > 여러가지 집계 함수가 포함되어있다
 print(data)
 
